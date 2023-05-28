@@ -45,9 +45,12 @@
 <h3 align="center">Someone who writes programming using python and nodejs in Sri Lanka</h3>
 
 <br>
-<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sentin0&label=Profile%20views&color=0e75b6&style=flat" alt="sentin0" /> </p>
+<br>
+<br>
+
+#### About Me
 
 - 🔭 I’m currently working on [Fibonacci](SENTIN0/Fibonacci-series.git)
 
