@@ -1,3 +1,13 @@
+<div style="display: flex; justify-content: center;">
+
+  <img src="https://avatars.githubusercontent.com/SENTIN0" alt="Common Soul">
+
+</div>
+
+<br>
+
+	<br>
+
 <h1 align="center">Hi 👋, I'm Sentino</h1>
 
 <h3 align="center">Someone who writes programming using python and nodejs in Sri Lanka</h3>
