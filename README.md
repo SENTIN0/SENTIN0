@@ -3,13 +3,12 @@
 
 
 
-<p align="center">
+
 	
 
     <img width="200" src="https://avatars.githubusercontent.com/SENTIN0" alt="Material Bread logo">
 
-	
-</p>
+
 
 <br>
 
