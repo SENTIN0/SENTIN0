@@ -1,4 +1,6 @@
-<div style="display: flex; justify-content: center;">
+
+<div style="text-align: center;">
+
 
   <img src="https://avatars.githubusercontent.com/SENTIN0" alt="Common Soul">
 
@@ -6,7 +8,7 @@
 
 <br>
 
-	<br>
+	
 
 <h1 align="center">Hi 👋, I'm Sentino</h1>
 
