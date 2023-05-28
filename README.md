@@ -1,10 +1,9 @@
 
-<div style="text-align: center;">
-
+<center>
 
   <img src="https://avatars.githubusercontent.com/SENTIN0" alt="Common Soul">
 
-</div>
+</center>
 
 <br>
 
