@@ -1,7 +1,5 @@
 
-<!DOCTYPE html>
 
-<html>
 
 <head>
 
@@ -30,10 +28,7 @@
     <img src="https://avatars.githubusercontent.com/SENTIN0" alt="sik ne">
 
   </div>
-
-</body>
-
-</html>
+<body/>
 
 
 
