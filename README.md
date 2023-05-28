@@ -1,11 +1,44 @@
 
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <style>
+
+    .center {
+
+      display: flex;
+
+      justify-content: center;
+
+      align-items: center;
+
+      height: 100vh;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <div class="center">
+
+    <img src="https://avatars.githubusercontent.com/SENTIN0" alt="sik ne">
+
+  </div>
+
+</body>
+
+</html>
 
 
-<center>
 
-  <img src="https://avatars.githubusercontent.com/SENTIN0" alt="Common Soul">
+  
 
-</center>
 
 
 	
